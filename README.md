@@ -1,4 +1,4 @@
-# Hi 👋, I'm Surendar Sivakumar
+# Hi 👋, I'm Surendar 
 
 🌱 I’m currently studying **Computer Science Engineering (CSE)**  
 💻 I’m interested in **Java, Android Development, and Problem Solving**  
